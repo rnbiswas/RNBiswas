@@ -3,6 +3,7 @@
 I'm a business and operations analyst with an **MSc in Business Analytics (Merit) from Aston University**. I currently lead a team of 20+ on shift in the UK. Most of my work comes down to one thing: finding out what's really going wrong in the data, and turning it into a change people actually use.
 
 **Tools:** SQL · Power BI (DAX, Power Query) · Excel (pivot tables, macros, VBA) · IBM SPSS · Arena simulation · Python (basic)
+
 **Methods:** forecasting (ARIMA, decomposition) · hypothesis testing · regression and classification · clustering · simulation · KPI reporting · process improvement
 
 ---
